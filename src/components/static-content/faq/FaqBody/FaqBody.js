@@ -309,18 +309,18 @@ const FaqBody = () => {
                 catalogo sono open source ed accessibili nei <em>repository</em>
                 <br></br>
                 <Anchor
-                  href={"https://github.com/teamdigitale/dati-semantic-backend"}
+                  href={"https://github.com/istat/dati-semantic-backend"}
                 >
-                  https://github.com/teamdigitale/dati-semantic-backend
+                  https://github.com/istat/dati-semantic-backend
                 </Anchor>{" "}
                 <br></br>
                 <Anchor
                   href={
-                    "https://github.com/teamdigitale/dati-semantic-frontend"
+                    "https://github.com/istat/dati-semantic-frontend"
                   }
                 >
                   {" "}
-                  https://github.com/teamdigitale/dati-semantic-frontend
+                  https://github.com/istat/dati-semantic-frontend
                 </Anchor>
                 <br></br>
                 Puoi contribuire al miglioramento del catalogo aprendo una issue
