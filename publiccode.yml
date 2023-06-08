@@ -78,5 +78,5 @@ platforms:
   - web
 releaseDate: '2021-12-25'
 softwareType: standalone/other
-url: 'https://github.com/teamdigitale/dati-semantic-frontend'
+url: 'https://github.com/istat/dati-semantic-frontend'
 logo: assets/Schema_thumbnail.svg
