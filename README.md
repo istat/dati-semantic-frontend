@@ -1,6 +1,6 @@
 
 [![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/teamdigitale/dati-semantic-frontend.svg)](https://github.com/teamdigitale/dati-semantic-frontend/issues)
+[![GitHub issues](https://img.shields.io/github/issues/istat/dati-semantic-frontend.svg)](https://github.com/istat/dati-semantic-frontend/issues)
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7VPAUVB3/)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 [![18app on forum.italia.it](https://img.shields.io/badge/Forum-18app-blue.svg)](https://forum.italia.it/c/18app-carta-docente)
@@ -27,7 +27,7 @@ The frontend is composed of a website which enables anyone to browse and search 
 
 # How to start
 
-This application is built using React with APIs served from [dati-semantic-backend](https://github.com/teamdigitale/dati-semantic-backend).
+This application is built using React with APIs served from [dati-semantic-backend](https://github.com/istat/dati-semantic-backend).
 
 To just fix the UI of the application use `yarn start` and run the application to see your changes.
 
@@ -77,7 +77,7 @@ and automatically deployed to the dev env.
 Dev env can be viewed [here](https://ndc-dev.apps.cloudpub.testedev.istat.it/).
 
 ## Documentation
-Documentation can be found here [Wiki](https://github.com/teamdigitale/dati-semantic-frontend/wiki)
+Documentation can be found here [Wiki](https://github.com/istat/dati-semantic-frontend/wiki)
 
 # How to contribute
 
@@ -94,4 +94,4 @@ Documentation can be found here [Wiki](https://github.com/teamdigitale/dati-sema
 # License 
 
 This work is licensed under the GNU Affero General Public License (AGPL), version 3 or later. You can find a copy of
-the license in the [LICENSE](https://github.com/teamdigitale/dati-semantic-frontend/blob/main/LICENSE) file
+the license in the [LICENSE](https://github.com/istat/dati-semantic-frontend/blob/main/LICENSE) file
